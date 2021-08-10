@@ -8,7 +8,3 @@ Machine Learning project that automates the detection of spam in Emails.
 
 ## Best Performing Model
 - SVM 
-
-### Areas in need of improvement
-- Regex to capture and replace web addresses.
-
